@@ -1,0 +1,1 @@
+<p>Sorry your {{$details['className']}} class on {{$details['classDate_time']->format('jS F')}} at {{$details['classDate_time']->format('g:i a')}} was cancled by the instructor</p>
